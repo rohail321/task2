@@ -1,0 +1,20 @@
+input {
+  background: #664321;
+  border: #664321;
+  border-radius: 20px;
+  width: 350px;
+  padding: 12px;
+}
+
+input#email {
+  background-image: url("../../assets/images/send.png");
+  background-repeat: no-repeat;
+  background-position: 285px 7px;
+  background-size: 25px;
+}
+
+input::placeholder {
+  color: white;
+  opacity: 0.5;
+  padding-left: 15px;
+}
