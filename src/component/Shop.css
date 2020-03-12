@@ -1,0 +1,72 @@
+.shop-box {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.Categories {
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  text-align: center;
+  border: 2px solid #fafafa;
+  border-radius: 10px;
+  box-shadow: 3px 3px 10px #d3d3d3;
+  padding: 10px;
+}
+
+.Categories img {
+  height: 50px;
+}
+.shop-box div h2 {
+  font-size: 16px;
+  color: #664321;
+  font-family: "Josefin Sans", sans-serif;
+}
+
+.heading-style {
+  font-family: "Fredoka One", cursive;
+  text-align: center;
+  font-size: 32px;
+  margin-top: -15px;
+}
+
+.arrow-icons {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.arrow-icons i {
+  font-size: 52px;
+  color: #664321;
+  padding: 0px 20px;
+}
+.fa-caret-left {
+  opacity: 0.5;
+}
+
+.vl {
+  border-left: 3px solid #664321;
+  height: 40px;
+  margin-top: 7px;
+}
+
+.arrow-icons2 {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+
+.arrow-icons2 i {
+  font-size: 52px;
+  color: #fafafa;
+  padding: 0px 20px;
+}
+
+.vl2 {
+  border-left: 3px solid #fafafa;
+  height: 40px;
+  margin-top: 7px;
+}
