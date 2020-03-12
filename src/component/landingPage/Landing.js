@@ -1,5 +1,4 @@
 import React from "react";
-import "./Landing.css";
 import header from "../../assets/images/header.png";
 import Navbar from "../layout/Navbar";
 
